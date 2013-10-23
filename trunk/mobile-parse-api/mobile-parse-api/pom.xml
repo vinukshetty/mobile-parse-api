@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.app2square.core.api</groupId>
+    <artifactId>mobile-parse-api</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+
+    <name>mobile-parse-api</name>
+    <description></description>
+
+    <dependencies>
+        <dependency>
+            <artifactId>junit</artifactId>
+            <groupId>junit</groupId>
+            <version>4.10</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <artifactId>base64coder</artifactId>
+            <groupId>biz.source_code</groupId>
+            <version>2010-12-19</version>
+        </dependency>
+    </dependencies>
+
+</project>
